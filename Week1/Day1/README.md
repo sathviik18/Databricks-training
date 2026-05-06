@@ -1,1 +1,24 @@
-Day 1 of SQL practice: I solved queries from the "sql practice queries.pdf" file. I focused on mastering the basics like joins, grouping data, and filtering to build a strong foundation for Databricks Training.I tested and practiced all these queries in DB Fiddle to make sure they work correctly.
+Files created:
+datacreation.sql, day1_queries.sql, outputs.md, README.md
+
+Tools Used
+
+- MySQL
+- DB-Fiddle
+- GitHub
+
+
+
+Concepts covered today:
+- Table Creation
+- Data Insertion
+- Basic Queries
+- String Matching
+- Date Functions
+- Aggregate Functions
+- GROUP BY
+- HAVING Clause
+- ORDER BY
+- JOIN Operations
+- Nested Queries
+- Advanced SQL Queries
