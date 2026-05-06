@@ -1,1 +1,1 @@
-
+Day 1 of SQL practice: I solved queries from the "sql practice queries.pdf" file. I focused on mastering the basics like joins, grouping data, and filtering to build a strong foundation for Databricks Training.I tested and practiced all these queries in DB Fiddle to make sure they work correctly.
