@@ -1,0 +1,53 @@
+--1
+SELECT ABS(-100);
+
+--2
+SELECT EMP_NAME , ROUND(BASE_SALARY,0) AS ROUNDED_SALARY
+FROM employee_salary;
+
+--3
+SELECT ROUND(BASE_SALARY , 2)
+FROM employee_salary;
+
+--4
+SELECT CEIL(BASE_SALARY) 
+FROM employee_salary;
+
+--5
+SELECT FLOOR(BASE_SALARY) 
+FROM employee_salary;
+
+--6
+SELECT TRUNCATE(BASE_SALARY,0)
+FROM employee_salary;
+
+--7
+SELECT MOD(experiencE_years,2) FROM employee_salary;
+
+--8
+SELECT POWER(2,3);
+
+--9
+SELECT POW(3,2);
+
+--10
+SELECT SQRT(64);
+
+--11
+SELECT SIGN(BASE_SALARY) FROM employee_salary;
+
+--12
+SELECT RAND();
+
+--13
+SELECT FORMAT(BASE_SALARY , 2) FROM employee_salary;
+
+--14
+SELECT EMP_NAME , 
+GREATEST(BASE_SALARY , IFNULL(BONUS,0))
+FROM employee_salary;
+
+--15
+SELECT EMP_NAME , 
+LEAST(BASE_SALARY , IFNULL(BONUS ,0))
+FROM employee_salary;
