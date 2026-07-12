@@ -1,0 +1,51 @@
+customer_id,customer_name,city,state,phone,email
+101,Alice,Chennai,Tamil Nadu,9876543210,alice@gmail.com
+102,Bob,Bengaluru,Karnataka,9876543211,bob@gmail.com
+103,Charlie,Hyderabad,Telangana,9876543212,charlie@gmail.com
+104,David,Mumbai,Maharashtra,9876543213,david@gmail.com
+105,Eva,Pune,Maharashtra,9876543214,eva@gmail.com
+106,Frank,Delhi,Delhi,9876543215,frank@gmail.com
+107,Grace,Kochi,Kerala,9876543216,grace@gmail.com
+108,Henry,Jaipur,Rajasthan,9876543217,henry@gmail.com
+109,Irene,Kolkata,West Bengal,9876543218,irene@gmail.com
+110,Jack,Visakhapatnam,Andhra Pradesh,9876543219,jack@gmail.com
+111,Kevin,Chennai,Tamil Nadu,9876543220,kevin@gmail.com
+,Laura,Bengaluru,Karnataka,9876543221,laura@gmail.com
+113,Mike,Hyderabad,Telangana,9876543222,mike@gmail.com
+114,Nancy,Mumbai,Maharashtra,9876543223,nancy@gmail.com
+115,Oscar,Pune,Maharashtra,9876543224,oscar@gmail.com
+116,Peter,Delhi,Delhi,9876543225,peter@gmail.com
+117,Queen,Kochi,Kerala,9876543226,queen@gmail.com
+118,Ryan,Jaipur,Rajasthan,9876543227,ryan@gmail.com
+119,Sophia,Kolkata,West Bengal,9876543228,sophia@gmail.com
+120,Tom,Visakhapatnam,Andhra Pradesh,9876543229,tom@gmail.com
+121,Uma,Chennai,Tamil Nadu,9876543230,uma@gmail.com
+122,Victor,Bengaluru,Karnataka,9876543231,victor@gmail.com
+123,Wendy,Hyderabad,Telangana,9876543232,wendy@gmail.com
+124,Xavier,Mumbai,Maharashtra,9876543233,xavier@gmail.com
+125,Yash,Pune,Maharashtra,9876543234,yash@gmail.com
+126,Zara,Delhi,Delhi,9876543235,zara@gmail.com
+127,Aaron,Kochi,Kerala,9876543236,aaron@gmail.com
+128,Bella,Jaipur,Rajasthan,9876543237,bella@gmail.com
+,Chris,Kolkata,West Bengal,9876543238,chris@gmail.com
+130,Diana,Visakhapatnam,Andhra Pradesh,9876543239,diana@gmail.com
+131,Ethan,Chennai,Tamil Nadu,9876543240,ethan@gmail.com
+132,Fiona,Bengaluru,Karnataka,9876543241,fiona@gmail.com
+133,George,Hyderabad,Telangana,9876543242,george@gmail.com
+134,Hannah,Mumbai,Maharashtra,9876543243,hannah@gmail.com
+135,Ian,Pune,Maharashtra,9876543244,ian@gmail.com
+136,Julia,Delhi,Delhi,9876543245,julia@gmail.com
+137,Karan,Kochi,Kerala,9876543246,karan@gmail.com
+138,Lisa,Jaipur,Rajasthan,9876543247,lisa@gmail.com
+139,Mason,Kolkata,West Bengal,9876543248,mason@gmail.com
+140,Nina,Visakhapatnam,Andhra Pradesh,9876543249,nina@gmail.com
+141,Oliver,Chennai,Tamil Nadu,9876543250,oliver@gmail.com
+142,Priya,Bengaluru,Karnataka,9876543251,priya@gmail.com
+143,Rahul,Hyderabad,Telangana,9876543252,rahul@gmail.com
+144,Sneha,Mumbai,Maharashtra,9876543253,sneha@gmail.com
+145,Tarun,Pune,Maharashtra,9876543254,tarun@gmail.com
+146,Varun,Delhi,Delhi,9876543255,varun@gmail.com
+147,Akash,Kochi,Kerala,9876543256,akash@gmail.com
+148,Neha,Jaipur,Rajasthan,9876543257,neha@gmail.com
+149,Rohit,Kolkata,West Bengal,9876543258,rohit@gmail.com
+150,Meera,Visakhapatnam,Andhra Pradesh,9876543259,meera@gmail.com
