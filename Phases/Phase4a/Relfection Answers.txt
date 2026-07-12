@@ -1,0 +1,20 @@
+5. which method is most useful and why?
+Ans: Quantile-based segmentation is the most useful because it divides customers into balanced groups based on the actual data distribution
+
+
+Reflection Questions:
+
+1. Why do we convert continuous values into categories?
+Continuous values (such as total_spend) are converted into categories (Gold, Silver, Bronze) to make the data easier to understand, analyze, and use for business decisions.
+
+2. What is the difference between business segmentation and technical bucketing?
+Business segmentation uses business-defined rules, whereas technical bucketing groups data into numerical ranges for analysis and machine learning.
+
+3. When would fixed thresholds fail?
+Fixed thresholds may fail when the data distribution changes over time.
+
+4. How does quantile-based segmentation differ from fixed rules?
+Fixed rules use predefined thresholds, whereas quantile-based segmentation determines thresholds from the data to create balanced groups.
+                                                       
+5. Which method would you use in a real-world project?
+I would use quantile-based segmentation for analytics and customer insights because it adapts to changing data and creates balanced customer groups.
