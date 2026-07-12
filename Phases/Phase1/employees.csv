@@ -1,0 +1,11 @@
+emp_id,name,age,department,salary,address_city,address_state
+101,Alice,25,HR,35000,Chennai,Tamil Nadu
+102,Bob,30,IT,55000,Bengaluru,Karnataka
+103,Charlie,28,Finance,48000,Hyderabad,Telangana
+104,David,35,IT,65000,Mumbai,Maharashtra
+105,Eva,27,Marketing,42000,Pune,Maharashtra
+106,Frank,32,Sales,50000,Delhi,Delhi
+107,Grace,29,HR,39000,Kochi,Kerala
+108,Henry,40,Finance,72000,Jaipur,Rajasthan
+109,Irene,31,Marketing,53000,Kolkata,West Bengal
+110,Jack,26,Sales,41000,Visakhapatnam,Andhra Pradesh
