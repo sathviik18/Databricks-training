@@ -1,0 +1,51 @@
+customer_id,customer_name,city,state,customer_type,signup_date
+101,Alice,Pune,Maharashtra,Regular,2025-01-01
+102,Bob,Kochi,Kerala,Premium,2025-02-02
+103,Charlie,Kochi,Kerala,Premium,2025-03-03
+104,David,Delhi,Delhi,Premium,2025-04-04
+105,Eva,Chennai,Tamil Nadu,Premium,2025-05-05
+106,Frank,Hyderabad,Telangana,Regular,2025-06-06
+107,Grace,Mumbai,Maharashtra,Regular,2025-07-07
+108,Henry,Kochi,Kerala,Premium,2025-08-08
+109,Irene,Visakhapatnam,Andhra Pradesh,Premium,2025-09-09
+110,Jack,Kolkata,West Bengal,Premium,2025-10-10
+111,Kevin,Bengaluru,Karnataka,Premium,2025-11-11
+112,Lisa,Kochi,Kerala,Premium,2025-12-12
+113,Mike,Jaipur,Rajasthan,Premium,2025-01-13
+114,Nina,Visakhapatnam,Andhra Pradesh,Premium,2025-02-14
+115,Oliver,Jaipur,Rajasthan,Premium,2025-03-15
+116,Peter,Mumbai,Maharashtra,Premium,2025-04-16
+117,Queen,Visakhapatnam,Andhra Pradesh,Premium,2025-05-17
+118,Ryan,Hyderabad,Telangana,Premium,2025-06-18
+119,Sophia,Visakhapatnam,Andhra Pradesh,Regular,2025-07-19
+120,Tom,Visakhapatnam,Andhra Pradesh,Premium,2025-08-20
+121,Uma,Bengaluru,Karnataka,Premium,2025-09-21
+122,Victor,Pune,Maharashtra,Premium,2025-10-22
+123,Will,Delhi,Delhi,Regular,2025-11-23
+124,Xavier,Visakhapatnam,Andhra Pradesh,Regular,2025-12-24
+125,Yash,Delhi,Delhi,Premium,2025-01-25
+126,Zara,Visakhapatnam,Andhra Pradesh,Premium,2025-02-26
+127,Arun,Bengaluru,Karnataka,Regular,2025-03-27
+128,Bhavna,Hyderabad,Telangana,Regular,2025-04-01
+129,Chetan,Chennai,Tamil Nadu,Regular,2025-05-02
+130,Divya,Chennai,Tamil Nadu,Premium,2025-06-03
+131,Eshan,Jaipur,Rajasthan,Regular,2025-07-04
+132,Farah,Kolkata,West Bengal,Premium,2025-08-05
+133,Gopal,Pune,Maharashtra,Premium,2025-09-06
+134,Harsha,Bengaluru,Karnataka,Premium,2025-10-07
+135,Ishita,Chennai,Tamil Nadu,Regular,2025-11-08
+136,John,Hyderabad,Telangana,Premium,2025-12-09
+137,Kiran,Chennai,Tamil Nadu,Premium,2025-01-10
+138,Lakshmi,Visakhapatnam,Andhra Pradesh,Premium,2025-02-11
+139,Manoj,Delhi,Delhi,Premium,2025-03-12
+140,Neha,Chennai,Tamil Nadu,Regular,2025-04-13
+141,Om,Pune,Maharashtra,Regular,2025-05-14
+142,Priya,Bengaluru,Karnataka,Regular,2025-06-15
+143,Rahul,Hyderabad,Telangana,Premium,2025-07-16
+144,Sneha,Delhi,Delhi,Premium,2025-08-17
+145,Tarun,Pune,Maharashtra,Regular,2025-09-18
+146,Usha,Bengaluru,Karnataka,Premium,2025-10-19
+147,Varun,Hyderabad,Telangana,Regular,2025-11-20
+148,William,Jaipur,Rajasthan,Regular,2025-12-21
+149,Yamini,Kolkata,West Bengal,Regular,2025-01-22
+150,Zubin,Delhi,Delhi,Regular,2025-02-23
